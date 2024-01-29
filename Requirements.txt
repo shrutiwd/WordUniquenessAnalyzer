@@ -1,0 +1,20 @@
+UNIQUE WORDS
+
+Requirements:
+None
+
+Need of the Project:
+1. To validate the user inputs in various form applications
+
+Explanation:
+a) Created a class named Unique_words
+
+b) Created a constructor - To Intialize instance variables
+			1. file_name 
+			2. output_file
+
+c) Created a method named unique - To allow user to find the unique words from the desired file.
+
+d) inputs:
+1. file_name = name of the file is taken to search the unique words.
+2. output_file = name of the file is taken to save the uniue words in that file.
